@@ -1,1 +1,1 @@
-# Detecao Em Imagens utilizando a redeYoloV3
+# Detecao Em Imagens Utilizando a Rede YoloV3
